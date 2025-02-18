@@ -26,9 +26,4 @@
 - The game compares the player's input with the computer's random choice and declares the winner.
 - If both selections are the same, the game results in a draw.
 
-## How to Run:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/snake-water-gun.git
-
 
